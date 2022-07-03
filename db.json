@@ -1,16 +1,22 @@
 {
-  "receitas": [
+  "receita": [
     {
-      "text": "dado2",
-      "id": 2
-    },
+      "id": 1,
+      "nomeReceita": "pão de sal",
+      "ingredientes": "jorge pão balacobaco",
+      "modoPreparo": "preparo",
+      "tempoPreparo": "12",
+      "porcoes": "12",
+      "urlImg": "https://i.ibb.co/9w1DJJ1/pao-caseiro-para-iniciantes-02-840x560.jpg",
+      "categoria": "vegano"
+    }
+  ],
+  "usuario": [
     {
-      "text": "roberto",
-      "id": 3
-    },
-    {
-      "text": "bento",
-      "id": 4
+      "id": 1,
+      "nome": "jorge",
+      "email": "jorge@gmail.com",
+      "senha": "123456"
     }
   ]
 }
